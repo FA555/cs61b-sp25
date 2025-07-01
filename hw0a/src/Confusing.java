@@ -5,7 +5,7 @@
  * @author Erik Kizior
  */
 
-// TODO: What is the output of the following program?
+// DONE: What is the output of the following program?
 public class Confusing {
     public static void method1() {
         System.out.println("I am method 1.");
@@ -30,6 +30,18 @@ public class Confusing {
 
 /* Before running the code, type your answer below.
 
-TODO: Write output here
+DONE: Write output here
+
+I am method 1.
+I am method 1.
+I am method 2.
+I am method 3.
+I am method 1.
+I am method 1.
+I am method 2.
+I am method 1.
+I am method 2.
+I am method 3.
+I am method 1.
 
 Then, click the green play button to check your work. */

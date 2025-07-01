@@ -18,7 +18,7 @@ public class IfElseMystery1 {
         System.out.println(z + " " + y);
     }
 
-    // TODO: For each call below, indicate what output is produced.
+    // DONE: For each call below, indicate what output is produced.
     public static void main(String[] args) {
         ifElseMystery1(3, 20);
         ifElseMystery1(4, 5);
@@ -29,6 +29,10 @@ public class IfElseMystery1 {
 
 /* Before running the code, type your answer below.
 
-TODO: Write output here
+DONE: Write output here
+13 21
+5 6
+6 5
+7 11
 
 Then, click the green play button to check your work. */
